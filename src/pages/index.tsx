@@ -10,6 +10,7 @@ const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
   maxWidth: 320,
+  fontSize: 48,
 }
 const headingAccentStyles = {
   color: "#663399",
